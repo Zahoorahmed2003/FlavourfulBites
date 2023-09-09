@@ -11,7 +11,7 @@
 
   <h2 align="center">FlavourfulBites - Fast food website</h2>
 
-  FlavoufulBites is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  FlavoufulBites is a fully responsive fast food website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
 
@@ -19,7 +19,7 @@
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
 ![FlavourfulBites Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
@@ -47,8 +47,8 @@ git clone https://github.com/codewithsadee/foodie.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [linkedin](https://www.linkedin.com/in/zahoor-ahmed-aaa3b6222/)
+If you want to contact me you can reach me at [linkedin](https://www.linkedin.com/in/zahoor-ahmed-aaa3b6222/)
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and contains no license.
